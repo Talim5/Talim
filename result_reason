@@ -1,0 +1,58 @@
+---------- kernel abnormal reboot records ----------
+kernel reboot     : reboot
+record time_stamp : 2024-02-20 14:42:58
+------------------------------------
+kernel reboot     : reboot
+record time_stamp : 2024-02-21 12:52:15
+------------------------------------
+kernel reboot     : reboot_longkey
+record time_stamp : 2010-01-01 05:30:18
+------------------------------------
+kernel reboot     : reboot_longkey
+record time_stamp : 2024-02-23 12:47:58
+------------------------------------
+kernel reboot     : PowerKey
+record time_stamp : 2024-03-03 05:28:33
+------------------------------------
+kernel reboot     : reboot_longkey
+record time_stamp : 2010-01-01 05:30:18
+------------------------------------
+kernel reboot     : reboot
+record time_stamp : 2024-03-11 00:04:11
+------------------------------------
+kernel reboot     : reboot
+record time_stamp : 2024-03-17 10:40:26
+------------------------------------
+kernel reboot     : reboot_longkey
+record time_stamp : 2024-03-22 14:14:45
+------------------------------------
+kernel reboot     : reboot
+record time_stamp : 2024-03-26 20:59:19
+------------------------------------
+kernel reboot     : reboot_longkey
+record time_stamp : 2024-03-29 06:49:07
+------------------------------------
+kernel reboot     : PowerKey
+record time_stamp : 2024-03-30 08:45:55
+------------------------------------
+kernel reboot     : reboot
+record time_stamp : 2024-03-31 00:19:53
+------------------------------------
+kernel reboot     : reboot_longkey
+record time_stamp : 2024-03-31 20:49:20
+------------------------------------
+kernel reboot     : PowerKey
+record time_stamp : 2024-04-05 20:00:58
+------------------------------------
+kernel reboot     : reboot_longkey
+record time_stamp : 2024-04-11 20:34:05
+------------------------------------
+kernel reboot     : reboot
+record time_stamp : 2024-04-14 10:16:14
+------------------------------------
+kernel reboot     : reboot,ota
+record time_stamp : 2024-04-17 19:59:37
+------------------------------------
+kernel reboot     : reboot_longkey
+record time_stamp : 2024-05-07 10:40:08
+------------------------------------
